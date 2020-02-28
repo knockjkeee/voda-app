@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82bd25500597570e6ad09ede69c55bca",
+    "revision": "e135e090763e1afdfeac951b3efe84bb",
     "url": "/voda-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voda-app/static/css/2.a641e29a.chunk.css"
   },
   {
-    "revision": "e30b62f83fad88a8ff93",
-    "url": "/voda-app/static/css/main.4056d9f3.chunk.css"
+    "revision": "6b4767d6fad0c3f1cb50",
+    "url": "/voda-app/static/css/main.90f2e306.chunk.css"
   },
   {
     "revision": "37cc8c01690116185697",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voda-app/static/js/2.29c0a7fe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e30b62f83fad88a8ff93",
+    "revision": "6b4767d6fad0c3f1cb50",
     "url": "/voda-app/static/js/main.1208d4f6.chunk.js"
   },
   {

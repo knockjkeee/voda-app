@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/voda-app/static/css/main.4056d9f3.chunk.css",
+    "main.css": "/voda-app/static/css/main.90f2e306.chunk.css",
     "main.js": "/voda-app/static/js/main.1208d4f6.chunk.js",
     "main.js.map": "/voda-app/static/js/main.1208d4f6.chunk.js.map",
     "runtime-main.js": "/voda-app/static/js/runtime-main.dc54219c.js",
@@ -9,10 +9,10 @@
     "static/js/2.29c0a7fe.chunk.js": "/voda-app/static/js/2.29c0a7fe.chunk.js",
     "static/js/2.29c0a7fe.chunk.js.map": "/voda-app/static/js/2.29c0a7fe.chunk.js.map",
     "index.html": "/voda-app/index.html",
-    "precache-manifest.9bdc960244df062d38f8dcf6771d1c72.js": "/voda-app/precache-manifest.9bdc960244df062d38f8dcf6771d1c72.js",
+    "precache-manifest.ecb997626ca0f48ba490cfe4675c52ed.js": "/voda-app/precache-manifest.ecb997626ca0f48ba490cfe4675c52ed.js",
     "service-worker.js": "/voda-app/service-worker.js",
     "static/css/2.a641e29a.chunk.css.map": "/voda-app/static/css/2.a641e29a.chunk.css.map",
-    "static/css/main.4056d9f3.chunk.css.map": "/voda-app/static/css/main.4056d9f3.chunk.css.map",
+    "static/css/main.90f2e306.chunk.css.map": "/voda-app/static/css/main.90f2e306.chunk.css.map",
     "static/js/2.29c0a7fe.chunk.js.LICENSE.txt": "/voda-app/static/js/2.29c0a7fe.chunk.js.LICENSE.txt",
     "static/media/1.jpeg": "/voda-app/static/media/1.88946e75.jpeg",
     "static/media/2.jpg": "/voda-app/static/media/2.a90b0f86.jpg",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.dc54219c.js",
     "static/css/2.a641e29a.chunk.css",
     "static/js/2.29c0a7fe.chunk.js",
-    "static/css/main.4056d9f3.chunk.css",
+    "static/css/main.90f2e306.chunk.css",
     "static/js/main.1208d4f6.chunk.js"
   ]
 }

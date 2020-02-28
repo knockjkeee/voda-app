@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/voda-app/precache-manifest.9bdc960244df062d38f8dcf6771d1c72.js"
+  "/voda-app/precache-manifest.ecb997626ca0f48ba490cfe4675c52ed.js"
 );
 
 self.addEventListener('message', (event) => {
