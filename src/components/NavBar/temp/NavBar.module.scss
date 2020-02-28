@@ -1,0 +1,23 @@
+.NavBar {
+  display: flex;
+  //font-size: 5rem;
+  font-size: 20px;
+}
+
+
+.Image {
+  height: 33px;
+  margin: 5px;
+  padding: -24px;
+  font-size: 21px;
+  opacity: 1;
+  filter: blur(0px) brightness(160%)
+}
+
+i{
+  margin: 5px;
+}
+
+.bg-light {
+  background-color: #f8f9fa!important;
+}

@@ -1,0 +1,19 @@
+.navbar-inner li{
+  line-height: 40px;
+  letter-spacing:2px;
+}
+
+.navLink{
+  border-top: 4px solid white;
+  transition: border-top .3s;
+  &:hover{border-top: 4px solid dodgerblue;
+  cursor:pointer;}
+}
+
+.brand{
+  letter-spacing:4px;
+  //border-top: 4px solid white;
+  transition: border-top .3s;
+  //&:hover{border-top: 4px solid dodgerblue;}
+  //&:hover{border-top: 4px solid dodgerblue;}
+}
